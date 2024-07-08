@@ -15,7 +15,7 @@ Stuff
 
 ## info
 
-Kira, 20 y.o.
+Kira, 21 y.o.
 
 linux enthusiast, programmer, linguist, speedcuber.
 
