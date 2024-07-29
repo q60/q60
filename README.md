@@ -27,6 +27,8 @@ Elixir junior developer
 
 TG: [@kirararararararara](https://t.me/kirararararararara)
 
+ru_RU channel with dev logs: [@schizo_kira](https://t.me/schizo_kira)
+
 ![Codewars](https://www.codewars.com/users/q60/badges/small?theme=light)
 
 ## some of my projects
