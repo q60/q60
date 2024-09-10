@@ -35,6 +35,7 @@ ru_RU channel with dev logs: [@schizo_kira](https://t.me/schizo_kira)
 
 ### CLI stuff
 
+- [![sticker.webp](https://raw.githubusercontent.com/q60/sticker.webp/6a283dd56a4d0350cf2199a5b639d4fcc2481fe6/raw-sticker.png)](https://github.com/q60/sticker.webp)
 - [disfetch](https://github.com/q60/disfetch) - yet another \*nix distro fetching program, but less complex
 - [tuatara](https://github.com/q60/tuatara) - Ziggidy \*nix system info fetcher
 - [pipes](https://github.com/q60/pipes) - pipes generator written in Go
