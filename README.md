@@ -82,6 +82,5 @@ ru_RU dev logs: [@schizo_kira](https://t.me/schizo_kira)
 
 - - -
 
-![](https://github-profile-trophy.vercel.app/?username=q60&theme=onedark)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=q60&langs_count=8&exclude_repo=st,encoder,q60.github.io,dotfiles,.spacemacs,starbound&theme=dracula)
 ![](https://hit.yhype.me/github/profile?user_id=61933599)
