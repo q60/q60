@@ -1,4 +1,4 @@
-Stuff
+stuff
 =====
 
 ![Elixir](https://img.shields.io/badge/-Elixir-663299?style=for-the-badge&logo=elixir)
@@ -15,19 +15,19 @@ Stuff
 
 ## info
 
-Kira, 21 y.o.
+kira, 21 y.o.
 
-linux enthusiast, programmer, linguist, speedcuber.
+server catmaid, linux enthusiast, programmer, linguist, speedcuber.
 
-Elixir junior developer
+Elixir developer
 
-- Russian - **native**
-- English - **C2**
-- French - ~**A2**
+- russian - **native**
+- english - **C2**
+- french - ~**A2**
 
-TG: [@kirararararararara](https://t.me/kirararararararara)
+tg: [@kirararararararara](https://t.me/kirararararararara)
 
-ru_RU channel with dev logs: [@schizo_kira](https://t.me/schizo_kira)
+ru_RU dev logs: [@schizo_kira](https://t.me/schizo_kira)
 
 ![Codewars](https://www.codewars.com/users/q60/badges/small?theme=light)
 
@@ -36,16 +36,16 @@ ru_RU channel with dev logs: [@schizo_kira](https://t.me/schizo_kira)
 ### CLI stuff
 
 - [![sticker.webp](https://raw.githubusercontent.com/q60/sticker.webp/6a283dd56a4d0350cf2199a5b639d4fcc2481fe6/raw-sticker.png)](https://github.com/q60/sticker.webp)
+- [tuatara](https://github.com/q60/tuatara) - ziggidy \*nix system info fetcher
 - [disfetch](https://github.com/q60/disfetch) - yet another \*nix distro fetching program, but less complex
-- [tuatara](https://github.com/q60/tuatara) - Ziggidy \*nix system info fetcher
 - [pipes](https://github.com/q60/pipes) - pipes generator written in Go
-- [dusk](https://github.com/q60/dusk) - utility, that shows today's visible sunrise and sunset time depending on geographic coordinates
+- [dusk](https://github.com/q60/dusk) - utility that shows today's visible sunrise and sunset times based on geographic coordinates
 - [weather](https://github.com/q60/weather) - Erlang weather fetching tool
-- [vreri](https://github.com/q60/vreri), [rrallë](https://github.com/q60/rralle), [స్వప్నము](https://github.com/q60/svapnamu), [SĆUTIWEN](https://github.com/q60/scutiwen), [auðna](https://github.com/q60/audna), [箴言](https://github.com/q60/zhenyan), [᚛ᚄᚓᚅᚑᚕᚏᚓᚅᚈᚐ᚜](https://github.com/q60/seanchrionna), [véletlenszerű](https://github.com/q60/veletlenszeru), [ᠮᡠᡵᠰᠠ](https://github.com/q60/mursa), [փաստ](https://github.com/q60/past), [ᎩᎦᎨᎢ](https://github.com/q60/gigagei), [سرنوشت](https://github.com/q60/sarnevesht) - random quote fetching console utilities
+- [vreri](https://github.com/q60/vreri), [rrallë](https://github.com/q60/rralle), [స్వప్నము](https://github.com/q60/svapnamu), [SĆUTIWEN](https://github.com/q60/scutiwen), [auðna](https://github.com/q60/audna), [箴言](https://github.com/q60/zhenyan), [᚛ᚄᚓᚅᚑᚕᚏᚓᚅᚈᚐ᚜](https://github.com/q60/seanchrionna), [véletlenszerű](https://github.com/q60/veletlenszeru), [ᠮᡠᡵᠰᠠ](https://github.com/q60/mursa), [փաստ](https://github.com/q60/past), [ᎩᎦᎨᎢ](https://github.com/q60/gigagei), [سرنوشت](https://github.com/q60/sarnevesht) - random quote fetching utilities
 
 ### Elixir libraries
 
-- [bmp](https://github.com/q60/bmp) - library allowing to interact with bitmap images
+- [bmp](https://github.com/q60/bmp) - library for interacting with bitmap images
 - [scrambler](https://github.com/q-cubing/scrambler) - library for scrambling cubes and displaying them
 - [rational](https://github.com/q60/rational) - library implementing rational numbers and math
 - [complex](https://github.com/q60/complex) - library implementing complex numbers and math
@@ -53,28 +53,28 @@ ru_RU channel with dev logs: [@schizo_kira](https://t.me/schizo_kira)
 
 ### websites and bots
 
-- [utils](https://github.com/q60/utils) - my website with collection of handy utils written in Elixir & Phoenix Framework
+- [utils](https://github.com/q60/utils) - my website with a collection of handy utils written in Elixir & Phoenix Framework
 - [scrambler-web](https://github.com/q-cubing/scrambler-web) - timer & scrambler website for speedcubers
 - [scrambler_api](https://github.com/q-cubing/scrambler_api) - scrambler backend & webserver written in Elixir
 - [q60.github.io](https://github.com/q60/q60.github.io) - catgirl programmer uwu dev blog made with Zola
 
-### AVR and other arch MCUs
+### AVR and other MCUs
 
 - [uno-esp8266](https://github.com/q60/uno-esp8266) - UNO R3 + ESP8266 weather station
 - [ziggy-avr](https://github.com/q60/ziggy-avr) - AVR toolchain written in Zig
 - [42](https://github.com/q60/fourty-two) - Arduino Brainfuck interpreter
 
-### Android playground
+### android playground
 
-- [IBMlauncher](https://github.com/q60/IBMlauncher) - fork of Olauncher app for Android with IBM Plex fonts and some redesign
-- [encoder](https://github.com/q60/encoder) - tiny text encoder for Android in written in Dart using Flutter SDK
+- [IBMlauncher](https://github.com/q60/IBMlauncher) - fork of the Olauncher app for android with IBM Plex fonts and some redesign
+- [encoder](https://github.com/q60/encoder) - tiny text encoder for android in written in Dart using Flutter SDK
 
 ### challenges and algorithms
 
 - [magnolia](https://github.com/q60/magnolia) - simple concatenative stack-based programming language written in Elixir
 - [rot13](https://github.com/q60/rot13) - collection of ROT13 encoding programms written in different languages
 - [base8](https://github.com/q60/base8) - BASE8 encoding written in Rust
-- [gochain](https://github.com/q60/gochain) - Markov chain text generator in Go
+- [gochain](https://github.com/q60/gochain) - markov chain text generator in Go
 - [roman_encoder](https://github.com/velothi/roman_encoder) - roman numerals string encoder written in Rust
 - [nummer](https://github.com/velothi/nummer) - numeral system translator written in Rust
 
